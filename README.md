@@ -7,7 +7,7 @@ Serverless
 Kaitlin Davis | January 2024
 
 ## About
- This project is a web scraping lab designed to automate the process of identifying "citation needed" statements within Wikipedia articles. The core functionality involves parsing Wikipedia pages selected by the user to find and report sections that require additional citations for verification. This not only aids in enhancing the accuracy and reliability of Wikipedia content but also serves as a practical exercise in web scraping and data processing.
+Explorer is a serverless application deployed on Vercel, designed to effortlessly find the capital city of a given country or identify the country by its capital city. Utilizing the REST Countries API, this application responds to simple GET HTTP requests with informative strings about capitals and their respective countries.
 
 ## Resources
 I used the help of some TA's as well as ChatGPT for this assignment.
